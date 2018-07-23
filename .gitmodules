@@ -1,0 +1,3 @@
+[submodule "ansible/roles/install_nextcloud"]
+	path = ansible/roles/install_nextcloud
+	url = https://github.com/aalaesar/install_nextcloud.git
